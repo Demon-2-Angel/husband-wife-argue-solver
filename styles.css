@@ -1,0 +1,44 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #975C8D;
+  background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #e5e5f7 15px ), repeating-linear-gradient( #D2336955, #D23369 );
+}
+
+h1 {
+  margin: 10px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #2A3990;
+  font-size: 8rem;
+  color: #7FE9DE;
+  text-align: center;
+}
+
+p {
+  font-size: 2rem;
+  color: #2A3990;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
